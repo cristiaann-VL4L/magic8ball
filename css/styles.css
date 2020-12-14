@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(90deg,#19115c,#2115c5)
+}
+.theball{
+    background-color: black;
+    height:500px;
+    width:500px;
+    border-radius:400px;
+    border:solid;
+    position: absolute;
+}
+.thecenter{
+    margin-top: 210px;
+    background-color:rgb(35, 10, 124);
+    height:200px;
+    width:200px;
+    border-radius:140px;
+    position: absolute;
+    border: solid 1px white;
+}
+
+.theAnswer{
+    margin-top: 85px;
+    margin-left:45px;
+}
