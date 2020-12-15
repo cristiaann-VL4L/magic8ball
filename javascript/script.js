@@ -35,7 +35,7 @@ button.addEventListener("click", function(){
         answerText = "Doubt it bro"
     }
     else if (randomNumber == 3){
-        answerText = "Are you still tripping?";
+        answerText = "You still tripping?";
     }
     else if (randomNumber == 4){
         answerText = "Leave me alone";
