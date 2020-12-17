@@ -1,5 +1,5 @@
 // Create random number 
-function generate_random(max_number) {
+function generateRandom(max_number) {
 
     return Math.round(Math.random()*max_number);
 }
@@ -21,7 +21,7 @@ button.addEventListener("click", function(){
     // 5 -> Yes! happy?
 
     // Generate a number
-    let randomNumber = generate_random(5);
+    let randomNumber = generateRandom(5);
     
     let answerText = "";
 
